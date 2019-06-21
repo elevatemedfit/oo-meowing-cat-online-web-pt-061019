@@ -1,2 +1,2 @@
-maru=Cat.new
-maru.name = "Maru"## code your solution here. 
+class Cat
+end## code your solution here. 
